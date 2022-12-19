@@ -1,0 +1,5 @@
+*.bundle filter=lfs diff=lfs merge=lfs -text
+packedassets_scenes_all_f6825d3ba371d70cc9a1e1fc96724649.bundle filter=lfs diff=lfs merge=lfs -text
+*.hash filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+.bundle filter=lfs diff=lfs merge=lfs -text
